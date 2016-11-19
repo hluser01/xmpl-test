@@ -1,0 +1,3 @@
+#Creating a tar compressed (.tar.gz) archive
+#gzip gunzip
+tar cvzf {:archive name:} {:directory path:}
