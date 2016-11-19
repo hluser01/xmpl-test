@@ -1,2 +1,2 @@
 #create a new tar archive
-tar cvf {:arhive name:} {:directory path:}
+tar cvf {:archive name:} {:directory path:}
