@@ -1,2 +1,0 @@
-#extract from an existing tar archive
-tar xvf {:archive name:}
