@@ -1,0 +1,3 @@
+#extract existing bzipped tar archive
+#bzip bullzip bz2 
+tar xvfj {:archive name:}
