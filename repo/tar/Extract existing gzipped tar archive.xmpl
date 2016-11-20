@@ -1,0 +1,2 @@
+#extract existing gzipped tar archive
+tar xvfz {:archive name:}
