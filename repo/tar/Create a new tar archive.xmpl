@@ -1,2 +1,3 @@
 #create a new tar archive
+#tarball
 tar cvf {:archive name:} {:directory path:}
