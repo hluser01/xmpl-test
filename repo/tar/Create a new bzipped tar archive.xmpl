@@ -1,3 +1,0 @@
-#create a new bzipped (.tar.bz) tar archive
-#bzip bullzip bz2
-tar cvfj {:archive name:} {:directory path:}
