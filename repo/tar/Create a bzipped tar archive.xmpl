@@ -1,3 +1,3 @@
-#creating a bzipped (.tar.bz) tar archive
+#create a bzipped (.tar.bz) tar archive
 #bzip bullzip bz2
 tar cvfj {:archive name:} {:directory path:}
