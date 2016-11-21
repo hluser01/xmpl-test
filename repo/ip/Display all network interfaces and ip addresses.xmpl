@@ -1,0 +1,3 @@
+#display all network interfaces and ip addresses 
+#default ip nwtwork interface setup
+ip addr show
