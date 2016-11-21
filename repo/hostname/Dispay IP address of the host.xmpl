@@ -1,0 +1,2 @@
+#dipslay ip address of the host
+hostname -i
